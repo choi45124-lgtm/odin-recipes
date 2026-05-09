@@ -11,4 +11,3 @@ What happens if a facebook engineer is working on the facebook website, trying t
 so I guess he checks and re-checks the code and "pushes" it only when he knows it is perfect and has no errors. 
 
 
-I am now a git master
