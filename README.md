@@ -9,3 +9,6 @@ One important lesson I learned will be the fact that I realized that automatical
 I suspect the reason for this is because you want the code to be perfect and without errors before you "push" it online, as it can cause errors. 
 What happens if a facebook engineer is working on the facebook website, trying to update features, and he makes an error and it uploads it real-time? then the whole website would come crashing down, 
 so I guess he checks and re-checks the code and "pushes" it only when he knows it is perfect and has no errors. 
+
+
+I am now a git master
